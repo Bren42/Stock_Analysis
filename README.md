@@ -7,9 +7,11 @@
        Looking through the years 2017 and 2018 we see a couple different patterns.
        ## 2017 Results
           ![2017_outcomes_image](https://github.com/Bren42/Stock_Analysis/blob/main/Resources/All_Stocks_analysis_2017%20Outcomes.png)
-          As we can see in 2017 everyone but TERP had a year of positive returns. However there were four companies that stood well ahead of the rest in overall percentage of return. DQ, SEDG, ENPH, and FSLR all ended the year with over a 100% return on investment. 
-       ## 2018 Results
-          ![2018_outcomes_image](https://github.com/Bren42/Stock_Analysis/blob/main/Resources/All_Stocks_analysis_2018%20Outcomes.png)
+          
+ As we can see in 2017 everyone but TERP had a year of positive returns. However there were four companies that stood well ahead of the rest in overall percentage of return. DQ, SEDG, ENPH, and FSLR all ended the year with over a 100% return on investment. 
+       
+  ## 2018 Results
+   ![2018_outcomes_image](https://github.com/Bren42/Stock_Analysis/blob/main/Resources/All_Stocks_analysis_2018%20Outcomes.png)
           In 2018 we saw a very different picture, most of our companies saw a loss on their stock price that year. ENPH and RUN however both showed significant positive returns for this year.
        ## Overall results
           Based on the outcomes of each year, and when looking at each stock in the cumulative, ENPH would be your best stock to pick based on data and other factors presented to us. It was one of only two companies that showed positive returns two years running, and it showed the highest aggregate ROI over the same period.
