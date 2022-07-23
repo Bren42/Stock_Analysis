@@ -17,5 +17,6 @@
  ##Summary
   ReFactoring Code
   results of refacored code
-  
+  ![2018 Performance results](https://github.com/Bren42/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018_1.png
+https://github.com/Bren42/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018_r.png)
    The advantages to re-factoring code
